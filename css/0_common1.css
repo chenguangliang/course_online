@@ -1,0 +1,362 @@
+/*陈广良 2017/08/24 常用的样式*/
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.font_bold{
+    font-weight: bold;
+}
+.font_12{
+    font-size: 0.12rem;
+}
+.font_14{
+    font-size: 0.14rem;
+}
+.font_16{
+    font-size: 0.16rem;
+}
+.font_20{
+    font-size: 0.2rem;
+}
+.font_22{
+    font-size: 0.22rem;
+}
+.font_24{
+    font-size: 0.24rem;
+}
+.font_26{
+    font-size: 0.26rem;
+}
+.font_28{
+    font-size: 0.28rem;
+}
+.font_30{
+    font-size: 0.3rem;
+}
+.font_32{
+    font-size: 0.32rem;
+}
+.font_36{
+    font-size: 0.36rem;
+}
+.font_40{
+    font-size: 0.40rem;
+}
+.col_6b6a6a{
+    color: #6b6a6a;
+}
+.col_a9a9a9{
+    color:#a9a9a9;
+}
+.col_353535{
+    color:#353535;
+}
+.col_0f3699{
+    color: #0f3699;
+}
+.col_e70012{
+    color: #e70012;
+}
+.col_ff0000{
+    color: #ff0000;
+}
+.bg_e2c785{
+    color: #e2c785;
+}
+.bg_efeff4{
+    color: #efeff4;
+}
+.col_fff{
+    color: #fff;
+}
+.mar_t2{
+    margin-top:0.02rem;
+}
+.mar_t5{
+    margin-top:0.05rem;
+}
+.mar_t10{
+    margin-top:0.1rem;
+}
+.mar_t12{
+    margin-top:0.12rem;
+}
+.mar_t15{
+    margin-top:0.15rem;
+}
+.mar_t20{
+    margin-top:0.2rem;
+}
+.mar_t25{
+    margin-top:0.25rem;
+}
+.mar_t30{
+    margin-top:0.3rem;
+}
+.mar_t40{
+    margin-top:0.4rem;
+}
+.mar_t50{
+    margin-top:0.5rem;
+}
+.mar_t55{
+    margin-top:0.55rem;
+}
+.mar_r10{
+    margin-right:0.1rem;
+}
+.mar_r20{
+    margin-right:0.2rem;
+}
+.mar_r30{
+    margin-right:0.3rem;
+}
+.mar_b10{
+    margin-bottom: 0.1rem;
+}
+.mar_b15{
+    margin-bottom: 0.15rem;
+}
+.mar_b20{
+    margin-bottom:0.2rem;
+}
+.mar_l10{
+    margin-left: 0.1rem;
+}
+.mar_l5{
+    margin-left: 0.05rem;
+}
+.mar_l15{
+    margin-left: 0.15rem;
+}
+.mar_l20{
+    margin-left:0.2rem;
+}
+.mar_l25{
+    margin-left:0.25rem;
+}
+.mar_l30{
+    margin-left:0.3rem;
+}
+.mar_l40{
+    margin-left: 40px;
+}
+.mar_lr10{
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+}
+.bg_fff{
+    background-color: #fff;
+}
+.bg_tran{
+    background: transparent;
+}
+.pad_10{
+    padding: 0.1rem;
+}
+.pad_20{
+    padding: 0.2rem;
+}
+.pad_l10{
+    padding-left: 0.1rem;
+}
+.pad_l20{
+    padding-left: 0.2rem;
+}
+.pad_l25{
+    padding-left: 0.25rem;
+}
+.pad_l30{
+    padding-left: 0.3rem;
+}
+.pad_l35{
+    padding-left: 0.35rem;
+}
+.pad_t10{
+    padding-top:0.1rem;
+}
+.pad_t20{
+    padding-top: 0.2rem;
+}
+.pad_t30{
+    padding-top: 0.3rem;
+}
+.pad_t120{
+    padding-top:1.2rem;
+}
+.pad_b20{
+    padding-bottom: 0.2rem;
+}
+.pad_tb10{
+    padding-top:0.1rem;
+    padding-bottom:0.1rem;
+}
+.pad_r10{
+    padding-right:0.1rem;
+}
+.pad_r20{
+    padding-right:0.2rem;
+}
+.pad_r30{
+    padding-right: 0.3rem;
+}
+.pad_lr10{
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+}
+.pad_lr15{
+    padding-left: 0.15rem;
+    padding-right: 0.15rem;
+}
+.pad_lr20{
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+}
+.height_60{
+    height: 0.6rem;
+    line-height:0.6rem;
+}
+.hei_line_30{
+    height: 0.3rem;
+    line-height:0.3rem;
+}
+.hei_line_40{
+    height: 0.4rem;
+    line-height:0.4rem;
+}
+.hei_line_50{
+    height: 0.5rem;
+    line-height:0.5rem;
+}
+.hei_line_60{
+    height: 0.6rem;
+    line-height:0.6rem;
+}
+.wid_30{
+    width: 0.3rem;
+}
+.wid_130 {
+    width: 1.3rem;
+}
+.wid_140 {
+    width: 1.4rem;
+}
+.wid_160 {
+    width: 1.6rem;
+}
+.wid_380 {
+    width: 3.8rem;
+}
+.wid_400 {
+    width: 4rem;
+}
+.wid_580 {
+    width: 5.8rem;
+}
+.hei_30{
+    height:0.3rem;
+}
+.hei_50{
+    height:0.5rem;
+}
+.hei_140{
+    height: 1.4rem;
+}
+.ver_top{
+    vertical-align: top;
+}
+.ver_mid{
+    vertical-align: middle;
+}
+.ver_bottom{
+    vertical-align: bottom;
+}
+.over_hide{
+    overflow: hidden;
+}
+.text_cen{
+    text-align: center;
+}
+.text_right{
+    text-align: right;
+}
+.lh-50{
+    line-height:0.5rem;
+}
+.border_none{
+    border: none;
+}
+.po_re{
+    position: relative;
+}
+.po_ab{
+    position: absolute;
+}
+.po_fixed{
+    position: fixed;
+}
+.cur_po{
+    cursor: pointer;
+}
+.dis_inb{
+    display: inline-block;
+}
+.none{
+    display: none;
+}
+.triangle_up_f4f4f4{
+    width: 0;
+    height: 0;
+    border-right: 0.2rem solid transparent;
+    border-bottom: 0.2rem solid #f4f4f4;
+    border-left: 0.2rem solid transparent;
+    background-color: transparent;
+}
+.input_Style2{
+    line-height:0.5rem;
+    border: 1px solid #e8e8e8;
+    border-radius: 0.1rem;
+    padding-left:0.1rem;
+}
+.hollowBtn_gray{
+    /*镂空红色按钮*/
+    height: 0.5rem;
+    line-height:0.5rem;
+    border: 1px solid rgb(169,169,169);
+    color: rgb(52,52,52);
+    font-size: 0.26rem;
+    border-radius: 0.06rem;
+    background: transparent;
+    text-align: center;
+    display: inline-block;
+    width: 1.6rem;
+}
+.hollowBtn_red{
+    /*镂空红色按钮*/
+    height: 0.5rem;
+    line-height:0.5rem;
+    border: 1px solid #ff0000;
+    color: #ff1800;
+    font-size: 0.26rem;
+    border-radius: 0.06rem;
+    background: transparent;
+    text-align: center;
+    display: inline-block;
+    width: 1rem;
+}
+.redBtn{
+    font-size: 0.26rem;
+    display: inline-block;
+    background-color: #ff0000;
+    color: white;
+    height: 0.5rem;
+    line-height:0.5rem;
+    border-radius: 0.06rem;
+    width: 1.6rem;
+    text-align: center;
+}
+
+
+

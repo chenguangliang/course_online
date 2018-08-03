@@ -1,0 +1,35 @@
+.header{
+    height: 0.97rem;
+    line-height:0.97rem;
+    background-color: #fff;
+}
+.header li{
+    width: 33.3%;
+    text-align: center;
+    border-bottom:2px solid #fff;
+}
+.header li.active{
+    color: #0f3699;
+    border-bottom:2px solid #0f3699;
+}
+.lesson_logo{
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 6px;
+    border: solid 1px #efeff4;
+}
+.order_one_top{
+    padding: 0.1rem 0.2rem;
+    line-height: 0.6rem;
+}
+.order_one_bottom{
+    line-height:0.8rem;
+}
+.main_img{
+    width: 2.8rem;
+    height: 1.6rem;
+    border: solid 1px #a9a9a9;
+}
+.header_fixed{
+    width: 100%;
+}
